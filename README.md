@@ -6,7 +6,7 @@
 #
 ### 第一章
 > Lua官网
-> > https:///www.lua.org/
+> > https://www.lua.org/
 > 注释(#注释)
 > 变量(#变量)
 > Print输出函数(#print输出函数)
